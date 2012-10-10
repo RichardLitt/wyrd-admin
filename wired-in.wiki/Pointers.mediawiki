@@ -1,0 +1,41 @@
+''(This page is meant for pointers to useful or inspirative resources that can come handy.)''
+
+==Psychological==
+
+===Getting Things Done===
+A book ([http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280 Amazon]) and a method ([http://en.wikipedia.org/wiki/Getting_Things_Done Wikipedia]) for &ldquo;stress-free&rdquo; productivity. Some ideas might inspire us, and we might want to check out all the programs listed on the Wikipedia page as supporting the method &ndash; for inspiration, and to check whether we will concur them. The author has his webpage [http://www.davidco.com/ here]. (Check the WP page in other languages. For example, in Czech, the WP page summarizes the whole book, saving you a lot of time.)
+
+===Less Wrong===
+www.lesswrong.com - Will add in some potential reading material as I see it, don't have any at the moment. Same with Ted Talks.
+
+http://lesswrong.com/lw/3w3/how_to_beat_procrastination/
+http://www.codinghorror.com/blog/2012/10/todont.html
+
+===Scripts (artificial intelligence)===
+
+There is a [http://en.wikipedia.org/wiki/Scripts_(artificial_intelligence) page on Wikipedia] on this, but it is quite bad and mostly disjunct to what we are interested in.
+
+Scripts are prototypical sequences of events from everyday life. If you go to a restaurant, you need to get dressed, get there, walk inside, wait for the waiter to show you to the table, wait for the menu, etc. Scripts are the lowest-level pieces of procedural knowledge we, as humans, share. For Wired In purposes, perhaps more important are the higher-level entities: plans, goals (themes are again too abstract I guess, although Richard's &ldquo;life&rdquo; would fall there). Goals are goals themselves, with the way of their achieving unspecified. They are of different kinds, but that's irrelevant for us. Plans are then prototypical ways of achieving goals, just a bit abstracted. Scripts are very concrete; scripts are the instantiated building blocks for plans.
+
+BiBTeX record for the book:
+  @book{schank_scripts_1977,
+    series = {The Artificial intelligence series},
+    title = {Scripts, plans, goals, and understanding : an inquiry into human knowledge structures},
+    isbn = {0470990333},
+    publisher = {Hillsdale, {N.J.} : L. Erlbaum Associates ; New York : distributed by the Halsted Press Division of John Wiley and Sons, 1977},
+    author = {Schank, Roger C and Abelson, Robert P},
+    year = {1977}
+  }
+
+===Procrastination flow chart===
+''(Avoid this!)''
+
+[http://www.loupak.cz/obrazky/vlastni/ostatni/8181/]
+
+==Programming==
+
+===Python===
+If you want to learn Python or find out more, see their [http://docs.python.org/ documentation]. The tutorial is a great way to learn Python. Library reference, although it sounds very technical, is the second most useful page there, and not that technical at all. See also the [http://www.coli.uni-saarland.de/courses/python-11/page.php?id=slides slides] from CoLi Python course.
+
+===OOP (Object-oriented Programming)===
+See the Python documentation for a chapter on classes in the tutorial ([http://docs.python.org/tutorial/classes.html here,] for convenience), and relevant [http://www.coli.uni-saarland.de/courses/python-11/page.php?id=slides slides] from CoLi Python course. (Yes, OOP is not only in Python, but if you are practical and don't need theory we won't use anyways, understanding OOP in Python is well enough.)
